@@ -107,10 +107,6 @@ p {
     opacity: 1; /* po najechaniu myszka pojawia sie text na obrazku */
 }
 
-.gallery-item:active .overlay {
-    opacity: 1; /* przy przytrzymaniu (np na telefonie) pojawia sie text na obrazku */
-}
-
 /* dla tabletów */
 @media (max-width:1210px) {
     .container {

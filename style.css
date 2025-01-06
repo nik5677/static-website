@@ -50,7 +50,7 @@ nav ul {
 nav ul li {
     display: inline;
     margin: 0 1em;
-    font-size: 1em;
+    font-size: 1.2em;
 }
 
 nav ul li a:hover {
@@ -65,7 +65,7 @@ nav ul li a:hover {
 
 /* paragraf */
 p {
-    font-size: 1em;
+    font-size: 1.2em;
 }
 
 /* galeria */
@@ -137,4 +137,13 @@ p {
         padding-left: 1.25em;
         float: left;
     }
+
+    nav ul li {
+        font-size: 1em; /* mniejszy font w menu */
+    }
+
+    p {
+        font-size: 1em; /* mniejszy font dla paragrafów */
+    }
+
 }

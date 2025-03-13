@@ -1,2 +1,2 @@
 # simple static portfolio-like website
-available at https://nik5677.github.io/strona/
+available [here](https://nik5677.github.io/static-website/)
